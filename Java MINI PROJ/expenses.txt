@@ -1,2 +1,0 @@
-Income,Job,100000.0,1.1.2026,Salary monthly
-Expense,Food,450.0,22.6.2025,mutton biriyani
